@@ -10,7 +10,7 @@ Model: GPT 6 Astra, light thinking
 
 ## Open source
 
-Released under the [MIT License](LICENSE.md). Contributions and forks are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for a short development guide.
+Released under the [MIT License](LICENSE.txt). Contributions and forks are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for a short development guide.
 
 The license covers this project's code. NanoGPT API usage requires your own key and balance; provider services, models, and generated content have their own applicable terms. Nano Studio is an independent hobby project. Neither this project nor its creator is affiliated with, endorsed by, or sponsored by Nano-GPT.com.
 
