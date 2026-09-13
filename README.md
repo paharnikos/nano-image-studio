@@ -105,12 +105,6 @@ npm start
 
 Browser tests use isolated fixture libraries, generated raster fixtures, and mocked API responses: no paid requests or access to your personal library. Run `npm run test:browser` with Chrome installed at `/usr/bin/google-chrome`, or set `PLAYWRIGHT_CHROMIUM_EXECUTABLE` to your browser executable. The tests start a local server on port 3100. They cover comparison controls, fullscreen, resized/narrow panels, linked pan, variation loading and URL cleanup, iteration preparation, lineage, and failed-save recovery.
 
-## Later milestones
-
-Model-supported masked editing and scheduled/cloud execution remain future releases.
-
-Generation details and setting differences are independent scrollable panels. Existing layouts keep their original panels, with the two new panels below them; Auto-layout arranges all six. Details follows comparison B (or A before B is selected). Fullscreen comparison keeps its differences table inside fullscreen.
-
 ## Custom CivitAI
 
 Select **Custom CivitAI** in Compose and enter an exact checkpoint AIR (for example `civitai:1025051@1476374`) or a CivitAI version URL with `modelVersionId`. Bare model IDs and name searches are not supported: the supplied NanoGPT integration export does not expose its compatible-model search API. An AIR identifies a version; NanoGPT determines whether that version is available when generating.
