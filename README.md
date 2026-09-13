@@ -6,6 +6,8 @@ A personal hobby project: an image-generation workbench for the NanoGPT API, bui
 
 Nano Studio was built with substantial AI assistance, including code generated and revised with OpenAI Codex. AI assistance has been used for implementation, documentation, and tests. This is an experimental personal project; the code and tests are available for inspection and improvement.
 
+Model: GPT 6 Astra, light thinking
+
 ## Open source
 
 Released under the [MIT License](LICENSE). Contributions and forks are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for a short development guide.
