@@ -1,0 +1,29 @@
+node_modules/
+.next/
+out/
+*.log
+.DS_Store
+playwright-report/
+test-results/
+
+# Local credentials (share only intentionally prepared examples)
+.env
+.env.*
+!.env.example
+
+# Generated TypeScript state
+*.tsbuildinfo
+
+# Local AI/editor workspace state
+.codex/
+.agents/
+.impeccable/
+.idea/
+.vscode/
+
+# Local exports and archives
+backups/
+nano-library-*.json
+nano-batch-*.json
+nano-batch-*.zip
+nano-result-*.json
